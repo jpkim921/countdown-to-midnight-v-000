@@ -7,5 +7,5 @@ def countdown(int)
       # sleep(1)
     int -= 1
   end
-  print "HAPPY NEW YEAR!"
+  # print "HAPPY NEW YEAR!"
 end
